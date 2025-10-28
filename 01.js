@@ -3,9 +3,11 @@
 
 // your code
 let sum = 0;
-let number = 1;
-while (number <= 20) {
-    sum += number
-    number++    
+let i = 1
+
+while (i <= 20) {
+    sum += i
+    i ++
+      
 }
-console.log('сумма чисел от 1 до 20: ' + sum);
+ console.log(sum);
