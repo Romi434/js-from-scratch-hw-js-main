@@ -5,6 +5,7 @@
 */
 
 // your code
+
 let sum = 0;
 let i = 1;
 
